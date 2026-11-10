@@ -1,0 +1,17 @@
+COURSE:        IIMBx - Digital Product Management (DPM-101)
+DOCUMENT:      02 - Grading & Late Submission Policy (Version 1)
+LAST UPDATED:  10 January 2026
+
+1. PASSING CRITERIA (JANUARY 2026 COHORT)
+  - To earn the Verified Certificate, learners must achieve an overall weighted score
+    of at least 50% across quizzes, the capstone case, and the final exam.
+  - Learners scoring 85% or above receive a "Pass with Distinction" badge.
+
+2. LATE SUBMISSION POLICY (JANUARY 2026 COHORT)
+  - Learners are allowed up to 2 late submissions across the course (applicable to
+    weekly quizzes or the capstone case) up to 48 hours past the deadline.
+  - A flat 10% mark deduction applies to any late submission submitted within that
+    48-hour window.
+
+3. CAPSTONE DEADLINE
+  - The Capstone Product Case is due at the end of Week 7 (10 November 2026, 11:59 PM IST).

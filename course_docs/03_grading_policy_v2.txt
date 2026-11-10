@@ -1,0 +1,24 @@
+COURSE:        IIMBx - Digital Product Management (DPM-101)
+DOCUMENT:      03 - Grading & Late Submission Policy (Version 2 - UPDATED)
+LAST UPDATED:  05 October 2026
+STATUS:        CURRENT ACTIVE POLICY (Replaces Version 1 dated 10 January 2026)
+
+IMPORTANT UPDATE NOTICE:
+This document supersedes "02_grading_policy_v1.txt". The academic committee updated the
+passing threshold and late submission rules effective October 2026.
+
+1. UPDATED PASSING CRITERIA (CURRENT COHORT)
+  - To earn the Verified Certificate, learners must achieve an overall weighted score
+    of at least 60% (increased from the earlier 50% threshold), AND must score at least
+    40% in the Proctored Final Exam separately.
+  - Learners scoring 85% or above still receive a "Pass with Distinction" badge.
+
+2. UPDATED LATE SUBMISSION POLICY (CURRENT COHORT)
+  - Late submissions are NO LONGER accepted for weekly quizzes or the capstone case.
+    The earlier 48-hour grace window with a 10% penalty has been discontinued.
+  - Because the best 5 out of 6 weekly quizzes are counted, learners can miss 1 weekly
+    quiz without penalty.
+
+3. CAPSTONE DEADLINE
+  - The Capstone Product Case deadline has been extended by 5 days to 15 November 2026,
+    11:59 PM IST.

@@ -1,0 +1,18 @@
+Sample Questions to Test Your Chatbot
+=====================================
+
+Use these sample questions (and your own) to test how your app handles accuracy,
+document conflicts, missing topics, follow-up turns, and repeated requests:
+
+1. What is the minimum score needed to pass the course and get a Verified Certificate?
+2. What is the minimum score needed to pass the course and get a Verified Certificate?   (Exact repeat)
+3. how much do i need to score to pass dpm-101?                                          (Same question, different phrasing)
+4. What happens if I submit my Capstone project 1 day late?
+5. When is the Capstone Product Case due?
+6. Is the final exam open-book or closed-book, and when is it scheduled?
+7. Can I take the proctored final exam on my iPad or mobile phone?
+8. How much does the Verified Certificate track cost?
+9. (Follow-up to #8): If I pay the Rs. 1,500 fee and drop the course in Week 2, how do I get a refund?
+10. How many weekly quizzes are there, and what if I miss one?
+11. Does this course teach SQL database indexing and Kubernetes deployment?
+12. Who won the cricket match last night?

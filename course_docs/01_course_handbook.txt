@@ -1,0 +1,26 @@
+COURSE:        IIMBx - Digital Product Management (DPM-101)
+DOCUMENT:      01 - Course Handbook & Overview
+LAST UPDATED:  15 August 2026
+STATUS:        Official Course Document
+
+1. ABOUT THE COURSE
+DPM-101 is an 8-week online course covering user research, product roadmapping,
+metrics, and AI feature design.
+
+2. WEEKLY SCHEDULE & EFFORT
+  - Duration: 8 weeks (self-paced video lectures + live weekend doubt sessions)
+  - Expected Effort: 4 to 5 hours per week
+  - Discussion Forum: Open 24/7. Teaching assistants reply within 24 hours.
+
+3. ASSESSMENT WEIGHTS
+  - Weekly Quizzes (6 quizzes, best 5 counted):   30% of total score
+  - Capstone Product Case Submission:             30% of total score
+  - Proctored Final Exam:                         40% of total score
+
+4. CERTIFICATE TRACKS & FEE
+  - Audit Track (Free): Access to all lecture videos and reading material. Does not
+    include graded assignments, the final exam, or a certificate.
+  - Verified Certificate Track (Rs. 1,500): Full access to graded quizzes, capstone
+    evaluation, the proctored final exam, and the official Verified Certificate upon
+    passing.
+  - Upgrading from the Audit Track to the Verified Track is open until the end of Week 4.
